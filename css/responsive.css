@@ -298,7 +298,17 @@ header nav .login_btn:hover{
     background-color: #555;
   }
 
+  .myname:hover{
+    transform: scale(1.1);
+  }
 
+.myname .fa-cogs:hover {
+  color: #137ee6;
+}
+.myname:hover .myLinks { color:  #137ee6; }
+.myLinks{
+  color: black;
+}
 
 
 
